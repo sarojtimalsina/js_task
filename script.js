@@ -395,7 +395,7 @@ let num3 = 49;
 if (Number.isInteger(Math.sqrt(num3))) {
     console.log("Perfect square");
 } else {
-    console.log("Not a perfect square");
+    console.log("Not a perfect uvu square");
 }
 
 //Task 50
